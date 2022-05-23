@@ -1,6 +1,6 @@
 package arrays;
 /**
- * 3.	Write a java program to print the Pascal’s Triangle using a 2-d array
+ * 3. Write a java program to print the Pascal’s Triangle using a 2-d array
  * 
 */
 public class PascalTriangle2DArray {

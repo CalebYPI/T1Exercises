@@ -1,6 +1,6 @@
 package arrays;
 /**
- * 2.	Write a Java program without using a second array to reverse elements of each row of a 2-d array of integer values. 
+ * 2. Write a Java program without using a second array to reverse elements of each row of a 2-d array of integer values. 
  * e.g.  	1    2    3     4			        4    3    2   1
  *	        5    6    7     8           =		8    7    6   5
  *          9    10   11   12			        12   11   10  9

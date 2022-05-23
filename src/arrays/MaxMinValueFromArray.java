@@ -1,6 +1,6 @@
 package arrays;
 /**
- * 1.	Write a Java program to find the maximum and minimum value of a 1-d array.
+ * 1. Write a Java program to find the maximum and minimum value of a 1-d array.
  * 
 */
 import java.util.Random;
